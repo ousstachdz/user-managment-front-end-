@@ -1,0 +1,10 @@
+.user-details {
+  padding: 2rem;
+}
+.user-details > h1 {
+  font-weight: 400;
+  margin: 0.5rem;
+}
+.user-details > h1 > span {
+  font-weight: 600;
+}
